@@ -29,6 +29,6 @@ This project focuses on layout design, accessibility, and responsive styling —
 ## 🚀 How to Use
 1. Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/CodeWithRavi/medical-survey-form.git
+   git clone https://github.com/CodeWithPurnendra/Medical-survey-form.git
 2. Open the project folder.
 3. Run the form by opening index.html in your web browser.
