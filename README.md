@@ -23,9 +23,6 @@ This project focuses on layout design, accessibility, and responsive styling —
 
 ---
 
-
----
-
 ## 🚀 How to Use
 1. Clone this repository to your local machine:  
    ```bash
